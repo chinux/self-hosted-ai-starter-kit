@@ -149,7 +149,7 @@ language model and Qdrant as your vector store.
 
 ```bash
 docker compose --profile gpu-nvidia pull
-docker compose create && docker compose --profile gpu-nvidia up
+docker compose create ; docker compose --profile gpu-nvidia up
 ```
 
 * ### For Mac / Apple Silicon users
