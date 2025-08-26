@@ -1,0 +1,10 @@
+{
+    "deepseek.ollamaEndpoint": "http://localhost:11434/",
+    "deepseek.provider": "deepseek",
+    "deepseek.ollamaModel": "deepseek-r1:8b",
+    "deepseek.apiKey": "",
+    "deepseek.baseURL": "http://host.docker.internal:11434",
+    "deepseek.enableCompletion": true,
+    "deepseek.lang": "es",
+    "deepseek.model": "deepseek-r1:8b"
+}
